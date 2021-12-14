@@ -14,7 +14,6 @@ void printO(int x,int y)
 		cout << endl;
 	}
 }
-
 int main(){
 	
 	printO(2,2);
